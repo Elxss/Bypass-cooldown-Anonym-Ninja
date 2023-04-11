@@ -30,8 +30,7 @@
   </ol>
 </details>
 
-ABOUT THE PROJECT
-## About The Project
+### About The Project
 
 ![images][product-screenshot]](https://example.com)
 
