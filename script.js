@@ -12,27 +12,24 @@
 (function() {
     'use strict';
 
-    // check if DownloadFile button exists
+    // check for the download button
     var downloadButton = document.getElementById("downloadfile");
     console.log(" [ Anonym.Ninja Bypass ] Made by Elxss , you can find project like this one here : https://github.com/Elxss");
     if (downloadButton) {
         console.log(" [ Anonym.Ninja Bypass ] Download Button found !");
 
-        // get download link and text from script on page
+        // get download link and text
         const script = Array.from(document.getElementsByTagName('script')).find(s => s.textContent.includes("DOWN_URL"));
         const DOWN_URL = script.textContent.match(/const DOWN_URL\s+=\s+"([^"]+)"/)[1];
         const DOWN_TXT = script.textContent.match(/const DOWN_TXT\s+=\s+"([^"]+)"/)[1];
         console.log(" [ Anonym.Ninja Bypass ] url: "+DOWN_URL);
         console.log(" [ Anonym.Ninja Bypass ] Have a good time !");
 
-        // create new button element
         var newButton = document.createElement('a');
         newButton.href = DOWN_URL;
         newButton.id = "DownloadForce";
         newButton.className = "downloadfile download_btn btn w-100 btn-green";
         newButton.textContent = DOWN_TXT;
-
-        // replace old button with new one
         downloadButton.parentNode.replaceChild(newButton, downloadButton);
     }
 })();
