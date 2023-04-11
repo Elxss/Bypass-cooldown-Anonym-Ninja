@@ -61,7 +61,7 @@ _The installation is very fast only 4 steps_
 
 1. TamperMonkey is required to run the project , you can download it directly from [https://tampermonkey.net/](https://www.tampermonkey.net/index.php)
 2. Open TamperMonkey and click on add New UserScript
-3. Then, copy the script from [here](https://github.com/Elxss/Bypass-cooldown-Anonym-Ninja/blob/main/)
+3. Then, copy the ```script.js``` from [here](https://github.com/Elxss/Bypass-cooldown-Anonym-Ninja/blob/main/script.js)
    ```javascript
    // ==UserScript==
    // @name         Anonym Ninja Bypasser
