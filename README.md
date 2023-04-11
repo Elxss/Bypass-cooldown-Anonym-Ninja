@@ -21,7 +21,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#AboutTheProject">About the Project</a></li>
+    <li><a href="#About The Project">About The Project</a></li>
     </li>
     <li><a href="#Installation">Installation</a></li>
     </li>
@@ -31,9 +31,9 @@
 </details>
 
 ABOUT THE PROJECT
-## AboutTheProject
+## About The Project
 
-[![Demo][product-screenshot]](https://example.com)
+![Demo][product-screenshot]](https://example.com)
 
 Tired of waiting for the cooldown on Anonym Ninja ?
 No problem this project is the awnser to your issue
