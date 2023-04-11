@@ -33,7 +33,7 @@
 ABOUT THE PROJECT
 ## About The Project
 
-![Demo][product-screenshot]](https://example.com)
+![images][product-screenshot]](https://example.com)
 
 Tired of waiting for the cooldown on Anonym Ninja ?
 No problem this project is the awnser to your issue
