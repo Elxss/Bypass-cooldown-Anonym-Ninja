@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps. -->
 
 _The installation is very fast only 4 steps_
 
-1. TamperMonkey is required to run the project , you can download it directly from [https://tampermonkey.net/](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. TamperMonkey is required to run the project , you can download it directly from [https://tampermonkey.net/](https://www.tampermonkey.net/index.php)
 2. Open TamperMonkey and click on add New UserScript
 3. Then, copy the script from [here](https://github.com/Elxss/Bypass-cooldown-Anonym-Ninja/blob/main/)
    ```javascript
@@ -77,7 +77,7 @@ _The installation is very fast only 4 steps_
    ```
 4. Paste it in the New UserScript
 5. Save ( CTRL + S )
-5. This is not a step, you're done ;) if you enjoyed this project please show me by sending me a little message or a star thanks.
+5. This is not a step, everything's good, don't forget to leave a star if you enjoyed the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ _The installation is very fast only 4 steps_
 <!-- CONTACT -->
 ## Contact
 
-Elxss - discord: Eliasss#8886 - elxssgitcontact@gmail.com - website: [https://elxss.github.io/](https://elxss.github.io/)
+Elxss - discord: Eliasss#8886 - elxssgitcontact@gmail.com - website: [elxss.github.io](https://elxss.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
