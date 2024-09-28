@@ -84,8 +84,6 @@ _The installation is very fast only 4 steps_
 ## Roadmap
 
 - [x] Make it work
-- [ ] Make it a Extension
-- [ ] Make a tutorial on my [youtube channel](https://www.youtube.com/@Elxss)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
